@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yle85
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Python and R
-- 
+- Ready to work!
 -
 
 <!---
